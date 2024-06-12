@@ -1,0 +1,7 @@
+actionnnn
+
+git branch
+git switch 
+git add .
+git commit -m
+git hub
